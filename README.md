@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![alt text](https://github.com/hiteshpr/hiteshpr/blob/dev/images/avatar.png?raw=true)
 
